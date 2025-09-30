@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 <!--
 **CazymirTM/CazymirTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](https://readme-typing-svg.demolab.com/demo/?weight=700&size=27&lines=Big+Man+Cezey;Making+windows+tools+using+C%23+or+Python)
