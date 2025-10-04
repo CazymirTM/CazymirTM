@@ -3,21 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cazymirtm&label=Profile%20views&color=0e75b6&style=flat" alt="cazymirtm" /> </p>
 
-- 🔭 I’m currently working on **Simple Downloader V3**
+- 🔭 I’m currently working on **Simple Downloader V3 (Finished)**
 
-- 🌱 I’m currently learning **More C# (WFA Net FRAMEWORK)**
-
-- 👯 I’m looking to collaborate on **For now no-one**
-
-- 🤝 I’m looking for help with **Integrating FiddlerCore into C#**
+- 🌱 I’m currently learning **More C# (WinForms .NET)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CazymirTM?tab=repositories](https://github.com/CazymirTM?tab=repositories)
 
-- 💬 Ask me about **Anything idk games what you like**
-
 - 📫 How to reach me **DISCORD ID: 493745450776526849**
-
-- ⚡ Fun fact **I like cars, i'm more of a car guy than a scripter but hey!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
