@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **DISCORD ID: 493745450776526849**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
