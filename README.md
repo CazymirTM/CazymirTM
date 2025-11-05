@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cazymirtm&label=Profile%20views&color=0e75b6&style=flat" alt="cazymirtm" /> </p>
 
-- 🔭 I’m currently working on **Nothing as for now, very busy rn**
+- 🔭 I’m currently working on **ZYVIER V1 driver fixer**
 
 - 🌱 I’m currently learning **More C# (WinForms .NET)**
 
