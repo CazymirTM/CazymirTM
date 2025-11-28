@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cazymirtm&label=Profile%20views&color=0e75b6&style=flat" alt="cazymirtm" /> </p>
 
-- 🔭 I’m currently working on **ZYVIER V1 (WIP PRODUCT BUT WORKING)**
-
 - 🌱 I’m currently learning **More C# (WinForms .NET)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/CazymirTM?tab=repositories](https://github.com/CazymirTM?tab=repositories)
